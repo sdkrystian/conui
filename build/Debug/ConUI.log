@@ -1,0 +1,44 @@
+﻿  Console.cpp
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\console.cpp(20): warning C4838: conversion from 'unsigned int' to 'SHORT' requires a narrowing conversion
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\console.cpp(33): warning C4838: conversion from 'unsigned int' to 'SHORT' requires a narrowing conversion
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\console.cpp(53): warning C4838: conversion from 'unsigned int' to 'SHORT' requires a narrowing conversion
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\console.cpp(345): warning C4018: '<': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\console.cpp(355): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\console.cpp(356): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\rectangle.h(28): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\rectangle.h(29): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\rectangle.h(37): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\rectangle.h(38): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\button.h(23): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\button.h(24): warning C4018: '>': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\button.h(26): warning C4018: '>': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\button.h(28): warning C4018: '>': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\button.h(71): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\button.h(72): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\button.h(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\button.h(77): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\button.h(85): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\button.h(86): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\textbox.h(19): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\textbox.h(34): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\textbox.h(35): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\textbox.h(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\textbox.h(40): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\textbox.h(48): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\textbox.h(49): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\text.h(23): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\text.h(28): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\dropdown.h(21): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\dropdown.h(22): warning C4018: '>': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\dropdown.h(24): warning C4018: '>': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\dropdown.h(26): warning C4018: '>': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\dropdown.h(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\dropdown.h(74): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\dropdown.h(75): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\dropdown.h(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\dropdown.h(80): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\dropdown.h(91): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\src\dropdown.h(92): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  ConUI.vcxproj -> C:\Users\19StasiowskiK\Documents\Visual Studio 2017\Projects\ConUI\bin\Debug\ConUI.exe

@@ -1,0 +1,41 @@
+﻿  Main.cpp
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\rectangle.h(28): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\rectangle.h(29): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\rectangle.h(37): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\rectangle.h(38): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\button.h(23): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\button.h(24): warning C4018: '>': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\button.h(26): warning C4018: '>': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\button.h(28): warning C4018: '>': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\button.h(71): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\button.h(72): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\button.h(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\button.h(77): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\button.h(85): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\button.h(86): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\textbox.h(19): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\textbox.h(34): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\textbox.h(35): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\textbox.h(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\textbox.h(40): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\textbox.h(48): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\textbox.h(49): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\text.h(23): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\text.h(28): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\dropdown.h(21): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\dropdown.h(22): warning C4018: '>': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\dropdown.h(24): warning C4018: '>': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\dropdown.h(26): warning C4018: '>': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\dropdown.h(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\dropdown.h(74): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\dropdown.h(75): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\dropdown.h(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\dropdown.h(80): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\dropdown.h(91): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\19stasiowskik\documents\visual studio 2017\projects\conui\conui\src\dropdown.h(92): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  Generating code
+  19 of 281 functions ( 6.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    52 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConUI.vcxproj -> C:\Users\19StasiowskiK\Documents\Visual Studio 2017\Projects\ConUI\bin\Release\ConUI.exe
